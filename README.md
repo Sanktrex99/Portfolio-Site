@@ -1,6 +1,6 @@
 # React JS Digital Portfolio
 
-![React JS Portfolio Site](resume-screenshot.jpg?raw=true " React JS Portfolio Site ")
+![React JS Portfolio Site](resume-website.jpg?raw=true " React JS Portfolio Site ")
 
 ### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
 
