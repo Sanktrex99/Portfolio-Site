@@ -1,12 +1,12 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# React JS Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![React JS Portfolio Site](resume-screenshot.jpg?raw=true " React JS Portfolio Site ")
 
 ### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
 
-## Resume Starter Pack Description
+## Digital Portfolio Description
 
-This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
+This portfolio is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
 
 ## 1. Make sure you have NODE installed!
 
@@ -16,7 +16,7 @@ Firstly, you will need to download the latest version of Node by <a href="https:
 
 Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
 
-```git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git```
+```git clone https://github.com/Sanktrex99/Portfolio-Site.git```
 
 ## 3. Install Dependancies
 
