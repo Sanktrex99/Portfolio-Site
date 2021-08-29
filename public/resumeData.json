@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Sanket",
+    "display_name": "Sanket Patnaik",
+    "occupation": "An Aspiring Software Engineer",
+    "description": "I am a dedicated individual having good programming and web dev skills",
+    "image": "profilepic.jpg",
+    "bio": "Hi! I am Sanket! I've been learning to code for over 3 years now. As a Front End Developer I've worked on to build small scale SPAs (Single Page Applications). Along the journey I realised my passion existed in building new cool builds and work with others to overcome challenges to make it as a usable product (P.S. I have not made any such usable products until now). With this passion, I have now built around 6-7 SPAs like an interactive Shopping list using React and many more. I have mostly learnt to build these through live coaching sessions on Youtube and I have accumulated several reviews about my projects. I develop REAL VALUE, REAL WORLD projects to help enhance my skills of web development. You just need to be open to get hands-on experience and learn the skills that are required to succeed in the real-world.",
+    "contactmessage": "Get in touch with me on LinkedIn !",
+    "email": "sanketxxxx@gmail.com",
+    "phone": "+91 93370XXXXX",
+    "address": {
+      "street": "Tankapani Road",
+      "city": "Bhubaneswar",
+      "state": "Odisha",
+      "zip": "751018"
+    },
+    "resumedownload": "https://www.linkedin.com/in/sanket-patnaik",
+    "social": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/sanketteknas1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/sanket-patnaik",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/Sanktrex99",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "IIIT - Bhubaneswar",
+        "degree": "Bachelor's Degree, Elect. and Telecomm. Engineering",
+        "graduated": "July 2022",
+        "description": "Not Graduated until now"
+      }
+    ],
+    "work": [
+      {
+        "company": "BSNL RTTC Bhubaneswar",
+        "title": "Industrial Internship on IP Networking",
+        "years": "June 2021 - July 2021",
+        "description": "Undertook a training on Computer Networking Concepts, OFC, HTTP, DSL and Python Programming."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Front End Development",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Photo Gallery App (React JS)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://github.com/Sanktrex99/ReactJS-Photo-Gallery"
+      },
+      {
+        "title": "Shopping Cart (React JS)",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://github.com/Sanktrex99/Simple-Shopping-List-ReactJS"
+      },
+      {
+        "title": "Budget Tracker (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://github.com/Sanktrex99/Budget-Tracker"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sanket is absolutely excellent, his depth of knowledge & his patience really meant a lot to me... I would definitely recommend",
+        "user": "Sambit Kumar Pradhan"
+      },
+      {
+        "text": "Working with Sanket has been AWESOME, he creates a viable environment which makes him so easy and approachable to work with, you'll finally feel like you know what's going on!",
+        "user": "Sanket Puhan"
+      }
+    ]
+  }
+}
